@@ -1,9 +1,8 @@
 # webpack_ecmascript
-webpack build javascript6
 
-##webpack + es6 构建代码
+## webpack + es6 构建代码
 
-###环境搭建步骤
+### 环境搭建步骤
 * 安装node
 * win+R -> cmd,切换到本地项目目录
 * 在项目目录执行命初始化包管理文件  npm init 生成package.json,在命令行根据提示输入相关信息
